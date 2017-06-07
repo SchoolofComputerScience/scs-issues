@@ -18,3 +18,9 @@ To update markdown pages on the website, visit [https://github.com/SchoolofCompu
 
 ## Image Uploading
 To add static assets to the website, visit [https://github.com/SchoolofComputerScience/scs-static](https://github.com/SchoolofComputerScience/scs-static)
+
+## Campus API
+The API that powers the website. You'll need an environment variable. Ping seckel@cs.cmu.edu for access. [https://github.com/SchoolofComputerScience/scs-api](https://github.com/SchoolofComputerScience/scs-api)
+
+## cs.cmu.edu Application
+The main campus application. You'll need an environment variable. Ping seckel@cs.cmu.edu for access. [https://github.com/SchoolofComputerScience/scs-api](https://github.com/SchoolofComputerScience/scs-api)
