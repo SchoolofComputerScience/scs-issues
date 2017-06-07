@@ -23,4 +23,4 @@ To add static assets to the website, visit [https://github.com/SchoolofComputerS
 The API that powers the website. You'll need an environment variable. Ping seckel@cs.cmu.edu for access. [https://github.com/SchoolofComputerScience/scs-api](https://github.com/SchoolofComputerScience/scs-api)
 
 ## cs.cmu.edu Application
-The main campus application. You'll need an environment variable. Ping seckel@cs.cmu.edu for access. [https://github.com/SchoolofComputerScience/scs-api](https://github.com/SchoolofComputerScience/scs-api)
+The main campus application. You'll need an environment variable. Ping seckel@cs.cmu.edu for access. [https://github.com/SchoolofComputerScience/scs-api](https://github.com/SchoolofComputerScience/scs-app)
