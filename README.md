@@ -1,11 +1,8 @@
 # scs-issues
 
-
 This is the repository to submit issues for the SCS Tech Team
 
-Any feature requests, questions, or bug fixes can be reported here. 
-
-Try to in alpha avoid particular interface Q/A type bugs and focus more on the concept. 
+Any feature requests, questions, or bug fixes can be reported here: https://github.com/SchoolofComputerScience/scs-issues/issues
 
 Thank you.
 
